@@ -1,0 +1,15 @@
+Locales['en'] = {
+  ['ooc_prefix'] = ' %s^0',
+  ['twt_help'] = 'send a tweet',
+  ['me_help'] = 'personal action',
+  ['me_prefix'] = 'me | %s',
+  ['do_help'] = 'RP information',
+  ['do_prefix'] = 'do | %s',
+  ['generic_argument_name'] = 'message',
+  ['generic_argument_help'] = 'the message',
+  ['system_prefix'] = ' %s^0',
+  ['system_prefix2'] = '𝗦𝗧𝗔𝗙𝗙',
+  ['twt_prefix'] = ' @%s^0',
+  ['reklame_prefix'] = ' %s^0',
+  ['reklame_prefix2'] = '𝗥𝗘𝗞𝗟𝗔𝗠𝗘',
+}
